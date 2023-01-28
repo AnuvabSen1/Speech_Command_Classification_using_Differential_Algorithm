@@ -1,1 +1,0 @@
-# Speech_Command_Classification_using_Differential_Algorithm & Genetic Algorithm
